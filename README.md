@@ -1,6 +1,6 @@
 # 🧙 Hogwarts Summer School - Telegram Chatbot
 
-This is a fully functional, created by Michael Telegram chatbot designed for the **Hogwarts Summer of Research** case study for New Uzbekistan University. It helps users explore structured information about the summer school program and provides instant, document-grounded answers.
+This is a fully functional, created by Michael. Telegram chatbot designed for the **Hogwarts Summer of Research** case study for New Uzbekistan University. It helps users explore structured information about the summer school program and provides instant, document-grounded answers.
 
 ---
 
